@@ -21,3 +21,26 @@ more densely areas? We will try to answer these ethical dilemmas in our poster.
 Finally, we will touch on similar applications, their issues and how to improve on them. We
 think our project may be adapted to civil application areas, so we will try to widen the areas of this
 application as a conclusion.
+
+
+## Introduction & Our Project (~160 words)
+Definition, importance of recon, how our project would change this field of work, which current problems it would solve   
+Visual: Diagrams explaining project   
+Berktuğ Kaan Özkan, Mehmet Arif Demirtaş
+
+## Implementation, Cost (~150 words)
+How it would be implemented, technical explanation, cost   
+Visual: Relevant statistics   
+Caner Altuğ Demirkan, Özkan Çelik
+
+## Possible Problems (~100 words)
+A look at possible limitations the project would encounter   
+Muhammed Mahir Varlıoğlu, Halil Şamil Asarkaya
+
+## Similar Applications (~90-100 words)
+Examples to similar applications, where they fall short and how we will improve upon them   
+Ahmed Eymen Çimen, Abdullah Yusuf Kavranoğlu
+
+## Ethics (~100 words)
+What ethical problems raise from our project?   
+Atakan Gülbahar, Merve Hatun Özcan
